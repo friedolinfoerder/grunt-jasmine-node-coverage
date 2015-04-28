@@ -44,7 +44,7 @@
   "dependencies": {
     "deepmerge": "~0.2",
     "istanbul": "~0.3",
-    "jasmine-node": ">=1.14.0"
+    "jasmine-node": "2.0.0-beta4"
   },
   "devDependencies": {
     "grunt": "~0.4",
